@@ -1,0 +1,1 @@
+lastPosition	= -1;
